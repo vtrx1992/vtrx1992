@@ -1,4 +1,9 @@
-<h1 align="center">Eai, meu nome é José Vitor</h1>
+<h1 align="center">Eai, me chamo Vitor !</h1>
+
+
+<p align= "center">
+  <img src="/src/avatar.gif">
+</p>
 
 
 <div style="display: inline_block" align="center"><br>
