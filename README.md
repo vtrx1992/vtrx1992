@@ -1,11 +1,16 @@
 <h1 align="center">Eai, me chamo Vitor !</h1>
 
+<div align="center">
+    Atualmente sou estudante de Desenvolvimento Web<br>
+    Graduado em Ciências Contabeis
+</div>
+
 
 <p align= "center">
   <img src="/src/avatar.gif">
 </p>
 
-
+ <h1 align="center">Skills</h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="vtrx-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vtrx-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,8 +21,7 @@
   <img align="center" alt="vtrx-Linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-<br>
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/vtrx1992">
