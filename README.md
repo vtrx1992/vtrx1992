@@ -2,7 +2,7 @@
 
 <div align="center">
     Atualmente sou estudante de Desenvolvimento Web<br>
-    Graduado em Ciências Contabeis
+    Graduado em Ciências Contábeis
 </div>
 
 
