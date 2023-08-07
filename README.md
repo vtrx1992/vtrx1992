@@ -1,8 +1,8 @@
 <h1 align="center">Eai, me chamo Vitor !</h1>
 
 <div align="center">
-    Atualmente sou estudante de Desenvolvimento Web<br>
-    Graduado em Ciências Contábeis
+    Atualmente sou estudante de Desenvolvimento Web e Cloud Computing<br>
+    Bacharelado em Ciências Contábeis
 </div>
 
 
