@@ -1,7 +1,7 @@
 <h1 align="center">Eai, me chamo Vitor !</h1>
 
 <div align="center">
-    Atualmente faço pós graduação em Segurança da Informação<br>
+    Estudante Segurança da Informação<br>
     Bacharelado em Ciências Contábeis
 </div>
 
