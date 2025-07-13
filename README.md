@@ -1,8 +1,7 @@
-<h1 align="center">Eai, me chamo Vitor !</h1>
+<h1 align="center">Hello, I'm Vitor!</h1>
 
 <div align="center">
-    Estudante Segurança da Informação<br>
-    Bacharelado em Ciências Contábeis
+    I'm a graduate student in Cybersecurity, focused on information security technologies and practices. <br>
 </div>
 
 
